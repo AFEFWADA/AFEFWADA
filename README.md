@@ -12,7 +12,7 @@
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="34" width="100%" loading="lazy">
 <div align="center">
-    <img height="200px" src="https://streak-stats.demolab.com?user=Mestiri77&theme=sea" loading="lazy"/>
+    <img height="200px" src="https://streak-stats.demolab.com?user=AFEFWADA&theme=sea" loading="lazy"/>
 </div>
 <div align="center">
 	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="142">
@@ -51,8 +51,8 @@
 </p>
 <div align="center">
 
-<img  src="https://github-readme-stats.vercel.app/api?username=mestiri77&show_icons=true&theme=dracula&include_all_commits=true&theme=buefy&hide_border=true" alt="mestiri's github stats"  width="370"/></a>
-<a href="https://www.sfectoria.com"><img src="https://streak-stats.demolab.com?user=Mestiri77&theme=sea&mode=weekly" alt="GitHub Streak"  width="390"/></a>
+<img  src="https://github-readme-stats.vercel.app/api?username=AFEFWADA&show_icons=true&theme=dracula&include_all_commits=true&theme=buefy&hide_border=true" alt="mestiri's github stats"  width="370"/></a>
+<a href="https://www.sfectoria.com"><img src="https://streak-stats.demolab.com?user=AFEFWADA&theme=sea&mode=weekly" alt="GitHub Streak"  width="390"/></a>
 <a>
 
 </div>
