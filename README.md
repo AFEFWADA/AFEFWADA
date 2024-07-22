@@ -69,12 +69,13 @@
  
 
 ```javascript
-let Farouk = {
-  Family: ["ouada","afef"],
-  Backend: [ "Nodejs","Expressjs","Nestjs",],
-  Frontend: ["HTML", "Javascript", "Css","Bootstrap"],
-  Database: ["PLSQL", "MySQL", "php"],
- 
+let Afef = {
+  Family: ["Ouada","Afef"],
+  Backend: [ "PhP"],
+  Frontend: ["HTML", "Javascript",  "Css","Bootstrap"],
+  Database: ["PLSQL", "MySQL"],
+  Open_api : ["SwaggerUI"],
+  Challenge: "Every challenge is accepted"
 }
 ```
 ### Connect with me
