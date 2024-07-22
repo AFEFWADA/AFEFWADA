@@ -70,17 +70,11 @@
 
 ```javascript
 let Farouk = {
-  Family: ["Mestiri","Sfectoria"],
+  Family: ["ouada","afef"],
   Backend: [ "Nodejs","Expressjs","Nestjs",],
-  Frontend: ["HTML", "Javascript", "ReactJs", "Css","Bootstrap","MUI"],
-  Database: ["PostgreSQL", "MySQL", "Mongodb","FireBase"],
-  Open_api : ["SwaggerUI"],
-Data-Serialization-Language : ["YAML"],
-  ORM: ["Prisma","SEQUELIZE"],
-  ODM: ["Mongoose"],
-  CloudServer: ["MongoDB Atlas"],
-  Architecture: ["MVC","Microsercices"],
-  Challenge: "Every challenge is accepted"
+  Frontend: ["HTML", "Javascript", "Css","Bootstrap"],
+  Database: ["PLSQL", "MySQL", "php"],
+ 
 }
 ```
 ### Connect with me
