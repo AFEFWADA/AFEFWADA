@@ -71,8 +71,8 @@
 ```javascript
 let Afef = {
   Family: ["Ouada","Afef"],
-  Backend: [ "PhP"],
-  Frontend: ["HTML", "Javascript",  "Css","Bootstrap"],
+  Backend: [ "PhP , "node js"],
+  Frontend: ["HTML", "Javascript",  "Css","Bootstrap" , "react js"],
   Database: ["PLSQL", "MySQL"],
   Open_api : ["SwaggerUI"],
   Challenge: "Every challenge is accepted"
